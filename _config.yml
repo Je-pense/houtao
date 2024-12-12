@@ -1,12 +1,12 @@
 # Site settings
-title: 2145 | 2018-2145
-description: '2145之正傳，記敘了人類到了2145年所面臨的關鍵抉擇。'
-keywords: '科幻小説，阿甘科幻小説，2145'
-url: 'https://je-pense.github.io/2145/'
+title: houtao | my hometown, my root
+description: '我的故鄉，我的根。'
+keywords: '後套傳奇'
+url: 'https://je-pense.github.io/houtao/'
 author:
   name: '阿甘'
   email: 'winwinsfu@gmail.com'
-  url: 'https://je-pense.github.io/2145/'
+  url: 'https://je-pense.github.io/houtao/'
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
