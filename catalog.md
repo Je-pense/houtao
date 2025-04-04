@@ -10,9 +10,7 @@ title: 目錄
 	{% for post in site.posts %}
 
 	<li>
-<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
-
-			
+   <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
 
 	{% endfor %}
 
