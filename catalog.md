@@ -11,6 +11,7 @@ title: 目錄
 
 	<li>
    <a href="{% if site.baseurl == '/' %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
+	</li>
 
 	{% endfor %}
 
